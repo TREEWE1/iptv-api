@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250926060516 +0800">
+<tv date="20250926072231 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -29580,6 +29580,9 @@
 	<programme channel="黑莓动画" start="20250926093100 +0800" stop="20250926120100 +0800">
 		<title lang="zh">11_猪猪侠之光明守卫者（上部）</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250926121200 +0800" stop="20250926140200 +0800">
+		<title lang="zh">01_小马宝莉之魔力新世界</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -29606,6 +29609,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250926105100 +0800" stop="20250926122200 +0800">
 		<title lang="zh">火影忍者疾风传：羁绊</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250926122200 +0800" stop="20250926141100 +0800">
+		<title lang="zh">新步步惊心</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
